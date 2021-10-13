@@ -11,3 +11,11 @@
   max-width: 330px;
   text-align: center;
 }
+
+.ancho {
+  width: 80%;
+}
+
+.boton {
+  height: 50px;
+}
